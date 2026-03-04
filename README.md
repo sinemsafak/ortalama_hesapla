@@ -135,4 +135,6 @@ Bu proje eğitim amaçlı geliştirilmiştir.
 ---
 
 #  Uygulama Görseli
-<img width="335" height="753" alt="Ekran görüntüsü 2026-03-04 121310" src="https://github.com/user-attachments/assets/761794b1-1b1f-45fc-a461-aa2ecaa5b7db" />
+<img width="1920" height="1440" alt="751shots_so" src="https://github.com/user-attachments/assets/cb4cbea5-5e0f-4c8e-a359-de4fa2717c33" />
+
+
