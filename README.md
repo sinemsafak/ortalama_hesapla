@@ -131,3 +131,8 @@ Bu proje Flutter öğrenme sürecinde geliştirilmiştir.
 #  Lisans
 
 Bu proje eğitim amaçlı geliştirilmiştir.
+
+---
+
+#  Uygulama Görseli
+<img width="335" height="753" alt="Ekran görüntüsü 2026-03-04 121310" src="https://github.com/user-attachments/assets/761794b1-1b1f-45fc-a461-aa2ecaa5b7db" />
