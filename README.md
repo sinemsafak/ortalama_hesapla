@@ -1,5 +1,10 @@
 # Ders Ortalama Hesaplama Uygulaması
 
+#  Uygulama Görseli
+<img width="1920" height="1440" alt="751shots_so" src="https://github.com/user-attachments/assets/cb4cbea5-5e0f-4c8e-a359-de4fa2717c33" />
+
+---
+
 Bu proje **Flutter** kullanılarak geliştirilmiş basit bir **ders ortalaması hesaplama uygulamasıdır**.
 Kullanıcı ders ekleyerek her dersin kredi ve not değerine göre genel ortalamayı hesaplayabilir.
 
@@ -133,8 +138,5 @@ Bu proje Flutter öğrenme sürecinde geliştirilmiştir.
 Bu proje eğitim amaçlı geliştirilmiştir.
 
 ---
-
-#  Uygulama Görseli
-<img width="1920" height="1440" alt="751shots_so" src="https://github.com/user-attachments/assets/cb4cbea5-5e0f-4c8e-a359-de4fa2717c33" />
 
 
